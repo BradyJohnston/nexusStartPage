@@ -18,3 +18,8 @@ There are a lot of things I would love to improve. Any contribution will be appr
 
 - [ ] Create a better design
 - [ ] Add or remove sections directly on the website
+
+### Brady's Edits
+These are the edit I am making to the git
+
+- [x] Convert bootstrap to w3.css
